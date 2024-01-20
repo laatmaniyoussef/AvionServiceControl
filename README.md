@@ -1,4 +1,4 @@
-# GraphQL Auto Service Project
+# GraphQL Avion Service Project
 
 ## Overview
 This is a Spring-based application for managing avion services using GraphQL.
