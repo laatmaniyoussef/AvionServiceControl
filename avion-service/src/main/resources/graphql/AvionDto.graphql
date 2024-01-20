@@ -1,0 +1,5 @@
+type AvionDto{
+    color: String
+    price: Float
+    model:String
+}
